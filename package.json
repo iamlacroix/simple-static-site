@@ -1,0 +1,23 @@
+{
+  "name": "gulpjs-blueprint",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael LaCroix <michael@lacroixdesign.net> (http://www.lacroixdesign.net)",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "~3.5.2",
+    "gulp-util": "~2.2.14",
+    "gulp-sass": "~0.7.0",
+    "gulp-clean": "~0.2.4",
+    "gulp-livereload": "~1.1.1",
+    "boarding-pass": "~1.0.0-beta1",
+    "gulp-jade": "~0.4.2",
+    "gulp-browserify": "~0.4.4",
+    "gulp-watch": "~0.5.0",
+    "gulp-connect": "~0.8.0"
+  }
+}
